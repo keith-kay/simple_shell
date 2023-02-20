@@ -1,5 +1,8 @@
 0x16. C - Simple Shell
 
+This is a team work collaboration task done by **Keith Rhova** and **Pkasi Mark**, all the tasks are as detailed below;
+
+
 Tasks
 
 0. Betty would be proud
