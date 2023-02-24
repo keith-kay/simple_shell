@@ -110,8 +110,8 @@ typedef struct builtin
 /* toem_shloop.c */
 int hsh(info_t *, char **);
 int find_builtin(info_t *);
-void find_cmd(info_t *);
-void fork_cmd(info_t *);
+void find_cmd(info_t *info);
+void fork_cmd(info_t *info);
 
 /* toem_parser.c */
 int is_cmd(info_t *, char *);
